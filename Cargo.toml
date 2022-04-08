@@ -1,8 +1,12 @@
 [package]
-name = "repeat"
+name = "repeat-command"
 license = "MIT"
 version = "0.1.0"
 edition = "2021"
 description = "A small tool that re-runs a command until it succeeds"
+
+[[bin]]
+name = "rp"
+path = "src/main.rs"
 
 [dependencies]

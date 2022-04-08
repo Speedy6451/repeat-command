@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "repeat"
+name = "repeat-command"
 version = "0.1.0"
