@@ -1,9 +1,11 @@
 [package]
 name = "repeat-command"
 license = "MIT"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A small tool that re-runs a command until it succeeds"
+readme = "README.md"
+repository = "https://github.com/Speedy6451/repeat-command"
 
 [[bin]]
 name = "rp"
